@@ -1,0 +1,10 @@
+{
+  "name": "sail",
+  "version": "0.0.1",
+  "description": "The Sail Document",
+  "main": "./assets/js/main.js",
+  "repository": "git@github.com:Hurly77/SAIL.git",
+  "author": "Cameron Leverett <camrbo@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
